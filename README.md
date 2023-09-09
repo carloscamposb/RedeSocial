@@ -1,4 +1,4 @@
-#Olá, 👦🏻📱
+# Olá, 👦🏻📱
 
 **Apresento a vocês o projeto que simula um aplicativo de rede social.** 
 Durante uma semana proveitosa na Jornada FullStack da EBAC, 
